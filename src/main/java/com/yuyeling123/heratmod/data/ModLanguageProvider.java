@@ -16,5 +16,6 @@ public class ModLanguageProvider extends LanguageProvider {
         this.add(ModItems.RUBY.get(),"ruby");
         this.add(ModItems.MAGIC_INGOT.get(),"magic_ingot");
         this.add(ModBlocks.LAMP_BLOCK.get(), "lamp_block");
+        this.add("object.heratmod.heratmod_object","heratmod");
     }
 }
